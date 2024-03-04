@@ -1,5 +1,13 @@
 # Welcome to Remix + Vite!
 
+## Usage
+
+To create a new Remix project with this template:
+
+```
+npx create-remix@latest --template mogita/remix-vite-tailwind-cloudflare
+```
+
 📖 See the [Remix docs](https://remix.run/docs) and the [Remix Vite docs](https://remix.run/docs/en/main/future/vite) for details on supported features.
 
 ## Typegen
